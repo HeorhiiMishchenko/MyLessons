@@ -1,0 +1,3 @@
+Bloodworm 5
+Earthworm 10
+Maggot 15

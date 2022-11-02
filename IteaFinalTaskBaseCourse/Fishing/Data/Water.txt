@@ -1,0 +1,3 @@
+River 10
+Lake 15
+Reservoir 20
